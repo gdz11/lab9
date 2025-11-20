@@ -1,4 +1,4 @@
-# Lab 9
+# Lab 6
 
 1. Create angular project with routing support  
 2. Create navigation link that nvaigates user to albums list component using routing  
